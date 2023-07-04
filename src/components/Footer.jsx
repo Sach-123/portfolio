@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => (
-  <div className="mx-[5%] flex flex-col items-center border-t text-3xl text-white md:mt-[100px]">
+  <div className="mx-[5%] flex flex-col items-center border-t text-center text-3xl text-white md:mt-[100px]">
     <a href="#">
       <button className="mx-auto my-5  h-[40px] border border-primary px-8 hover:border-2 active:bg-[#A030BF] ">
         ↑
