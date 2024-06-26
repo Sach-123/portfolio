@@ -44,19 +44,19 @@ export const projectCards = [
 export const skillset = [
     {
         skillTitle:"Language",
-        skillContent:"Java, Python, HTML, CSS, Javascript"
+        skillContent:"Java, Python, HTML, CSS, Javascript, dart"
     },
     {
         skillTitle:"Database",
-        skillContent:"MongoDB, Oracle Database, SQLite"
+        skillContent:"MongoDB, MySQL, SQLite"
     },
     {
         skillTitle:"Tools",
-        skillContent:"VSCode, Figma, Git",
+        skillContent:"VSCode, Figma, Git, Android studio",
     },
     {
         skillTitle:"Frameworks / Library",
-        skillContent:"ReactJs, Bootstrap, Tailwind CSS, Django, Flask",
+        skillContent:"ReactJs, Bootstrap, Tailwind CSS, Django, Flask, ExpressJs, NodeJs",
     }
 ];
 

@@ -8,10 +8,9 @@ const Footer = () => (
       </button>
     </a>
     <div className="my-10 text-xl">
-      Made with <span className="animate-pulse text-3xl">❤️</span> by Sachin
-      Choudhary
+      Made by <span className="font-semibold">Sachin Choudhary</span>
     </div>
-    <div className="text-lg">Thane, Maharastra</div>
+    <div className="text-lg">Thane, Maharashtra</div>
     <div className="mb-2 text-sm">
       ©2023 Sachin Choudhary. All Rights Reserved.
     </div>

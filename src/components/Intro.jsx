@@ -37,7 +37,7 @@ const Intro = () => {
           </div>
         </div>
         <div className=" text-md text-dimWhite">
-          I am currently deepening my knowledge of ReactJS, learning Machine
+          I am currently deepening my knowledge of Flutter, learning Machine
           Learning and diligently practicing DSA.
         </div>
 
@@ -54,7 +54,7 @@ const Intro = () => {
         <img
           src={profile}
           alt="profile photo"
-          className="sticky z-10 w-[300px] rounded-xl drop-shadow-2xl"
+          className="sticky z-10 w-[400px] rounded-xl drop-shadow-2xl"
         />
         <img
           src={dots}
