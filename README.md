@@ -1,8 +1,8 @@
 # Portfolio
-My personal portfolio webite created using ReactJs and styled using TailwindCSS.
+My personal portfolio wesbite created using ReactJs and styled using TailwindCSS.
 
 ## 1. Initialization
-The project is initialized using the frontend tooling [Vite](https://vitejs.dev/).
+The project is initialized using the frontend tool [Vite](https://vitejs.dev/).
 
 ## 2. Tools and packages used in this portfolio 
 1. [ReactJs](https://react.dev/)
